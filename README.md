@@ -63,7 +63,7 @@ I am currently working on projects that demonstrate:
 ## 📫 Connect With Me
 
 - Email: maruheena2411@gmail.com
-- GitHub: [Heena Maru](https://github.com/heenamaru2411)
+- GitHub: [Heena Maru](https://github.com/maruheena2411)
 
 ---
 
